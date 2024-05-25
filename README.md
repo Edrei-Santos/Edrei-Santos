@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Edrei-Santos
-- 👀 I’m interested in working as a software dev
-- 🌱 I’m currently learning the basics of software development, with special attention at Java.
-- 💞️ I’m looking to collaborate on any project where I can learn anything new.
+- 📖 I’m doing Economics at Universidade Estadual de Feira de Santana
+- 💻 My current Hard Skill goal is learning Excel (Done); Phyton (In Progress); SQL (Done) and PowerBI (Not Started), to apply those techs in Data Manipulation jobs
+- 💼 I'll try to post my jobs (the ones I'm allowed to) and portfolio here, keeping it updated
 - 📫 How to reach me: send an e-mail to edreisantoscontact@gmail.com
 
 <!---
